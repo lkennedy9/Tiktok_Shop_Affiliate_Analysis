@@ -12,7 +12,7 @@ Python, pandas, matplotlib, Google Colab
 ## Key Findings
 - Nearly all of my orders and commission come from one brand, WENNALIFE.
 - A small number of videos drive most of my commission.
-- Order volume peaked early in the year and has dropped, while monthly commission has stayed fairly steady.
+- Orders and earnings both peaked in the spring and have declined since.
 
 ## Recommendation
 My income depends heavily on one brand and a few videos. I recommend promoting additional hair-care brands and testing whether other products beyond clip-in extensions sell, while studying what my top video did well and repeating it.
